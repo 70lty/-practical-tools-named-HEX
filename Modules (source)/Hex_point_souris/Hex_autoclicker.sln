@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hex_autoclicker", "Hex_autoclicker\Hex_autoclicker.pyproj", "{99E16648-2E9E-4D91-ABF9-5E6B0F418750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E16648-2E9E-4D91-ABF9-5E6B0F418750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E16648-2E9E-4D91-ABF9-5E6B0F418750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6A8AC11-9E30-4513-A337-75F660C3EFA4}
+	EndGlobalSection
+EndGlobal

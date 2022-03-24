@@ -1,0 +1,22 @@
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\bin\Debug\Hex loader.exe
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\bin\Debug\Hex loader.pdb
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\bin\Debug\Hex loader.xml
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\bin\Debug\Guna.UI.dll
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\obj\x86\Debug\Hex_loader.Form1.resources
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\obj\x86\Debug\Hex_loader.Resources.resources
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\obj\x86\Debug\Hex loader.vbproj.GenerateResource.Cache
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\obj\x86\Debug\Hex loader.exe
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\obj\x86\Debug\Hex loader.xml
+C:\Users\matheo\AppData\Local\Temporary Projects\Hex loader\obj\x86\Debug\Hex loader.pdb
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex loader.exe
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex loader.xml
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex loader.pdb
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Debug\Hex loader.exe
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Debug\Hex loader.pdb
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Debug\Hex loader.xml
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Debug\Guna.UI.dll
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex_loader.Form1.resources
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex_loader.Resources.resources
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex loader.vbproj.GenerateResource.Cache
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex_loader.Form2.resources
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Debug\Hex loader.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hex_Gmail", "Hex_Gmail\Hex_Gmail.pyproj", "{B67D49F7-F5F9-4FDC-A614-BD459F70253E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67D49F7-F5F9-4FDC-A614-BD459F70253E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67D49F7-F5F9-4FDC-A614-BD459F70253E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7AA0685-D0CD-44CF-99D3-92D6BAFCE5E1}
+	EndGlobalSection
+EndGlobal

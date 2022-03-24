@@ -1,0 +1,12 @@
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex_loader.Form1.resources
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex_loader.Resources.resources
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex loader.vbproj.GenerateResource.Cache
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Release\Hex loader.exe
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Release\Hex loader.pdb
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Release\Hex loader.xml
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\bin\Release\Guna.UI.dll
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex loader.vbprojResolveAssemblyReference.cache
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex loader.exe
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex loader.xml
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex loader.pdb
+C:\Users\matheo\Desktop\Hex1\Hex loader\Hex loader\obj\x86\Release\Hex_loader.Form2.resources

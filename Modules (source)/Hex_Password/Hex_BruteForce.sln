@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Hex_BruteForce", "Hex_BruteForce\Hex_BruteForce.pyproj", "{272E4C9C-E857-40E6-9A12-25936F3E4559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272E4C9C-E857-40E6-9A12-25936F3E4559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272E4C9C-E857-40E6-9A12-25936F3E4559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFEEE02-FB5C-458D-9BB5-9CDB3BC15CFC}
+	EndGlobalSection
+EndGlobal
